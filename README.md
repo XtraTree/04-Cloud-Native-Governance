@@ -381,9 +381,9 @@ Cloud-native governance and hardening patterns for multi-cloud and Kubernetes en
 **This repo answers: 🎯 HOW to enforce policy across teams at scale**
 
 **Governance Stack**:
-- 📍 [REPO 1: Where workloads run](../01-Hybrid-Multi-Cloud-Blueprints) → What to govern
-- 🛡️ [REPO 2: How network is secured](../02-Network-Modernization) → Network policies
-- 🔐 [REPO 3: How identity is verified](../03-Zero-Trust-Security) → Identity policies
+- 📍 [REPO 1: Where workloads run](https://github.com/XtraTree/01-Hybrid-Multi-Cloud-Blueprints) → What to govern
+- 🛡️ [REPO 2: How network is secured](https://github.com/XtraTree/02-Network-Modernization) → Network policies
+- 🔐 [REPO 3: How identity is verified](https://github.com/XtraTree/03-Zero-Trust-Security) → Identity policies
 - **⚖️ REPO 4: How policies are enforced** → This repo (governance automation)
 
 **Example**: Complete architecture
@@ -440,7 +440,7 @@ Cloud-native governance and hardening patterns for multi-cloud and Kubernetes en
 
 **If you want integrated architecture** 🔗:
 1. 🔗 See [How This Repo Connects](#-how-this-repo-connects-to-the-other-repos)
-2. 🛡️ Jump to [REPO 2](../02-Network-Modernization) or 🔐 [REPO 3](../03-Zero-Trust-Security)
+2. 🛡️ Jump to [REPO 2](https://github.com/XtraTree/02-Network-Modernization) or 🔐 [REPO 3](https://github.com/XtraTree/03-Zero-Trust-Security)
 
 </div>
 
