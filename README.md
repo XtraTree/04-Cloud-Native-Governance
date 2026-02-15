@@ -4,7 +4,6 @@
 
 [![Governance](https://img.shields.io/badge/Governance-Cloud%20Native-green)](.)
 [![Policy](https://img.shields.io/badge/Policy-Automated-blue)](.)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](.)
 
 ---
